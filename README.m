@@ -1,2 +1,2 @@
 # Ija ( A simple link tree )
-Demo : https://helmidev03.github.io/Ija/
+<a href="https://helmidev03.github.io/Ija/">Demo/a>
